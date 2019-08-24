@@ -1,0 +1,14 @@
+/Users/ismailoguzhanay/Projects/aspdotnetcore-webapi/webapi-mysql/bin/Debug/netcoreapp2.2/webapi-mysql.deps.json
+/Users/ismailoguzhanay/Projects/aspdotnetcore-webapi/webapi-mysql/bin/Debug/netcoreapp2.2/webapi-mysql.runtimeconfig.json
+/Users/ismailoguzhanay/Projects/aspdotnetcore-webapi/webapi-mysql/bin/Debug/netcoreapp2.2/webapi-mysql.runtimeconfig.dev.json
+/Users/ismailoguzhanay/Projects/aspdotnetcore-webapi/webapi-mysql/bin/Debug/netcoreapp2.2/webapi-mysql.dll
+/Users/ismailoguzhanay/Projects/aspdotnetcore-webapi/webapi-mysql/bin/Debug/netcoreapp2.2/webapi-mysql.pdb
+/Users/ismailoguzhanay/Projects/aspdotnetcore-webapi/webapi-mysql/obj/Debug/netcoreapp2.2/webapi-mysql.csprojAssemblyReference.cache
+/Users/ismailoguzhanay/Projects/aspdotnetcore-webapi/webapi-mysql/obj/Debug/netcoreapp2.2/webapi-mysql.csproj.CoreCompileInputs.cache
+/Users/ismailoguzhanay/Projects/aspdotnetcore-webapi/webapi-mysql/obj/Debug/netcoreapp2.2/webapi-mysql.RazorAssemblyInfo.cache
+/Users/ismailoguzhanay/Projects/aspdotnetcore-webapi/webapi-mysql/obj/Debug/netcoreapp2.2/webapi-mysql.RazorAssemblyInfo.cs
+/Users/ismailoguzhanay/Projects/aspdotnetcore-webapi/webapi-mysql/obj/Debug/netcoreapp2.2/webapi-mysql.AssemblyInfoInputs.cache
+/Users/ismailoguzhanay/Projects/aspdotnetcore-webapi/webapi-mysql/obj/Debug/netcoreapp2.2/webapi-mysql.AssemblyInfo.cs
+/Users/ismailoguzhanay/Projects/aspdotnetcore-webapi/webapi-mysql/obj/Debug/netcoreapp2.2/webapi-mysql.RazorTargetAssemblyInfo.cache
+/Users/ismailoguzhanay/Projects/aspdotnetcore-webapi/webapi-mysql/obj/Debug/netcoreapp2.2/webapi-mysql.dll
+/Users/ismailoguzhanay/Projects/aspdotnetcore-webapi/webapi-mysql/obj/Debug/netcoreapp2.2/webapi-mysql.pdb
